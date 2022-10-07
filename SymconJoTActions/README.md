@@ -1,11 +1,12 @@
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Donation](https://img.shields.io/badge/Donation-PayPal-ffc43a)](https://www.paypal.com/donate/?hosted_button_id=9M6W4KM34HWMA)
 [![IP-Symcon is awesome!](https://img.shields.io/badge/IP--Symcon-6.0-blue.svg)](https://www.symcon.de)
-[![Release Version](https://img.shields.io/github/v/release/jotata/SymconJoTActions)](https://github.com/jotata/SymconJoTActions/releases)
+[![Repository](https://img.shields.io/website?down_color=green&down_message=private&label=Git-Repo&up_color=orange&up_message=public&url=https%3A%2F%2Fgithub.com%2Fjotata%2FSymconJoTActions)](https://github.com/jotata/SymconJoTActions)
 
 # SymconJoTActions
 Dieses Modul beinhaltet keine Geräte, sondern nur eine Sammlung von Actions in IP-Symcon.
 
 ## Dokumentation
-<p align="right"><a href="https://www.paypal.com/donate/?hosted_button_id=9M6W4KM34HWMA" target="_blank"><img src="https://www.paypalobjects.com/de_DE/CH/i/btn/btn_donateCC_LG.gif" border="0" /></a></p>
 
 **Inhaltsverzeichnis**
 1. [Funktionsumfang](#1-funktionsumfang)  
@@ -16,7 +17,6 @@ Dieses Modul beinhaltet keine Geräte, sondern nur eine Sammlung von Actions in 
     2. [Changelog](#2-changelog)
     3. [Spenden](#3-spenden)
 5. [Support](#5-support)
-6. [Lizenz](#6-lizenz)
 
 ## 1. Funktionsumfang
 Das Modul beinhaltet folgende Aktionen:
@@ -61,5 +61,3 @@ Update erfolgt ebenfalls über den Module-Store. Einfach beim installierten Modu
 <!--Fragen, Anregungen, Kritik und Fehler zu diesem Modul können im entsprechenden [Thread des IPS-Forums](https://community.symcon.de/t/modul-coe-knoten-jottacoe-technische-alternative-via-can-over-ethernet-coe) deponiert werden.-->
 Da das Modul in der Freizeit entwickelt wird, kann es jedoch eine Weile dauern, bis eine Antwort im Forum verfügbar oder ein entsprechendes Update vorhanden ist. Besten Dank für euer Verständnis :-)
 
-## 6. Lizenz
-IPS-Modul: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>
