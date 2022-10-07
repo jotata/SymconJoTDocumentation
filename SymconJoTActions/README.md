@@ -30,8 +30,10 @@ Das Modul beinhaltet folgende Aktionen:
  - IPS 6.0 oder höher  
 
 ## 3. Modul-Installation / Update
-Die Installation erfolgt über den IPS Module-Store. In der Suche einfach **Allgemeine Actions (JoTActions)** eingeben und die Installation starten.
+Die Installation erfolgt über den IPS Module-Store. In der Suche einfach **Actions (JoTActions)** eingeben und die Installation starten.
 Update erfolgt ebenfalls über den Module-Store. Einfach beim installierten Modul auf *Aktualisieren* klicken.
+
+Nach der Installation stehen die Aktionen in Ablaufplänen oder Ereignissen zur Verfügung. Diese sind durch **(JoT)** am Ende der Beschreibung markiert.
 
 **Das Modul wird für den privaten Gebrauch kostenlos zur Verfügung gestellt.**
 
